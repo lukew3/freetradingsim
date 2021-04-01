@@ -1,1 +1,1 @@
-# tradingsim
+# freetradingsim
